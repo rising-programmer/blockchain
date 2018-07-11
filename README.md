@@ -1,4 +1,4 @@
 # Blockchain
 
 ## Modules
-- [Fabric](https://github.com/rising-programmer/blockchain/fabric/v1.2.0)
+- [Fabric](https://github.com/rising-programmer/blockchain/tree/master/fabric/v1.2.0)
